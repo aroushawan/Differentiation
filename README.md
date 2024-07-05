@@ -1,3 +1,3 @@
 # Differentiation
 
-The code takes a polynomial and returns its Differentiated form.
+The code takes a polynomial and returns its derivative.
